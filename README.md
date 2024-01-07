@@ -1,4 +1,4 @@
-# Kickass Proxy is Back – 100% Working Kickass Mirror Sites 2023
+# Kickass Proxy is Back – 100% Working Kickass Mirror Sites 2024
 
 The Kickass site is the best source where you can download Multi category torrents. If your ISP blocks Kickass or for some reason cannot access it, just go to one of the [Kickass proxy sites](https://wesharebytes.com/kickass-proxy-list-2020-working-kickass-torrents-alternatives/). You will get instant access through the Kickass mirror so that you can download all the multimedia content you need.
 
@@ -14,10 +14,14 @@ In practice, it doesn’t matter if you connect to Kickass through a proxy serve
 - https://kat.proxyninja.org
 - https://kickasstorrents.proxyninja.net
 - https://kickass.torrentsbay.org
+- https://kickass.torrentbay.st
 - https://kickasstorrents.abcproxy.org
 
 
 # Is Kickass blocked in my country?
+
+Kickass torrents website has been blocked in several countries, including Ireland, Italy, Denmark, Portugal, and Malaysia.
+
 Many countries continue to try to restrict access to Kickass for many reasons. But sometimes the tracker becomes unavailable for a while. However, they always advertise on their site when internal problems arise. However, these internal issues have been successfully resolved by mirrored websites that allow you to access Kickass even if it has been blocked.
 
 Kickass's mirror sites make it easy for users to view their favorite content. If you receive a Cloudflare 522 error notification every time you want to access Kickass, it means that there is a problem with the hosting.
