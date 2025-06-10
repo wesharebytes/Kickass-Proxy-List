@@ -8,7 +8,7 @@ Perhaps the easiest way to access the site is through Kickass proxies. A proxy s
 Kickass proxies are sometimes mistaken for Kickass mirrors. Mirror 1337x is just a clone of the source site with a different domain name and servers. The Kickass proxy server, on the other hand, is a separate site that makes it easy to connect to the original Kickass, as well as often to other websites.
 In practice, it doesn’t matter if you connect to Kickass through a proxy server or use an Kickass mirror, as they both provide about the same degree of privacy.
 
-# Top Kickass Proxy and Mirror Sites from UnblockNinja:
+# Top Kickass Proxy and Mirror Sites:
 
 - https://kickasstorrents.unblockninja.com
 - https://kat.proxyninja.org
