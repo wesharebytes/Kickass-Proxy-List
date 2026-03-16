@@ -1,4 +1,4 @@
-# Kickass Proxy is Back – 100% Working Kickass Mirror Sites 2025
+# Kickass Proxy is Back – 100% Working Kickass Mirror Sites 2026
 
 The Kickass site is the best source where you can download Multi category torrents. If your ISP blocks Kickass or for some reason cannot access it, just go to one of the [Kickass proxy sites](https://wesharebytes.com/kickass-proxy-list-2020-working-kickass-torrents-alternatives/). You will get instant access through the Kickass mirror so that you can download all the multimedia content you need.
 
@@ -10,7 +10,7 @@ In practice, it doesn’t matter if you connect to Kickass through a proxy serve
 
 # Top Kickass Proxy and Mirror Sites:
 
-- https://kickasstorrents.unblockninja.com
+- https://kickasstorrents.unblockninja.st
 - https://kat.proxyninja.org
 - https://kickasstorrents.proxyninja.net
 - https://kickass.torrentsbay.org
